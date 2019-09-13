@@ -1,0 +1,28 @@
+{
+  "name": "cryptocurrency",
+  "version": "1.0.0",
+  "description": "Cryptocurrency project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julia30oren/Cryptocurrency-Project.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "MyWebpack"
+  ],
+  "author": "Julia Orendovskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julia30oren/Cryptocurrency-Project/issues"
+  },
+  "homepage": "https://github.com/julia30oren/Cryptocurrency-Project#readme",
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  }
+}
