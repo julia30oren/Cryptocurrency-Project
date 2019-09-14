@@ -7,7 +7,3 @@ import 'bootstrap/js/dist/util';
 
 console.log('Hello world!')
 console.log('Bye!!!!!!!')
-
-jQuery(document).ready(function($){
-    $('body').css('background-color', 'red')
-});
